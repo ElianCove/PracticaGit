@@ -1,4 +1,4 @@
-Nombre: Yeliber Elian
-Apellido: Cobeña Montes
+Nombre: Yeliver Elian
+Apellido: Coveña Montes
 Carrera: Tecnologias de la información y comunicación 
 Materia: Desarrollo de sistemas informaticos
